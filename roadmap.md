@@ -4,7 +4,7 @@
 - [x] Append div when clicking button with JQ
 - [x] Count clicks of button
 - [x] create a p in previous div displaying clicks
-- [ ] append button elements "Swap" and "delete"
+- [x] append button elements "Swap" and "delete"
 - [ ] style generated divs background red
 - [ ] "swap" toggles from red to yellow
 - [ ] "delete" removes parent div container
