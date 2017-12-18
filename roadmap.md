@@ -1,7 +1,7 @@
 # ROADMAP
 
-- [ ] Create button on DOM
-- [ ] Append div when clicking button with JQ
+- [x] Create button on DOM
+- [x] Append div when clicking button with JQ
 - [ ] Count clicks of button
 - [ ] create a p in previous div displaying clicks
 - [ ] append button elements "Swap" and "delete"
