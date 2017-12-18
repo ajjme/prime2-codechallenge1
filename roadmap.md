@@ -6,5 +6,5 @@
 - [x] create a p in previous div displaying clicks
 - [x] append button elements "Swap" and "delete"
 - [x] style generated divs background red
-- [ ] "swap" toggles from red to yellow
-- [ ] "delete" removes parent div container
+- [x] "swap" toggles from red to yellow
+- [x] "delete" removes parent div container
